@@ -1,1 +1,1 @@
-This database schema is for managing airline operation processes, providing a comprehensive model to handle standard airline data. It includes tables for passengers, flights, tickets, airports, airlines, and flight classes, capturing essential details required for efficient airline management.
+This schema is designed for managing airline operations, providing structure to handle large data sets. It includes storage for passengers, flights, tickets, airports, airlines, and flight classes.
